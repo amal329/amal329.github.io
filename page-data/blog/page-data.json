@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-index-js",
     "path": "/blog/",
-    "result": {"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"frontmatter":{"date":"2022-06-23T00:00:00.000Z","published":true,"slug":"moving","title":"Moving"},"id":"d83bc284-9995-5ee2-9911-cf48330ea0f3"}]}},"pageContext":{}},
     "staticQueryHashes": []}
